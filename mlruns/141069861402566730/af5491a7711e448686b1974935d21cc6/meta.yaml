@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/141069861402566730/af5491a7711e448686b1974935d21cc6/artifacts
+deleted_time: 1749893630360
+end_time: 1749893403139
+entry_point_name: ''
+experiment_id: '141069861402566730'
+lifecycle_stage: deleted
+run_id: af5491a7711e448686b1974935d21cc6
+run_name: handsome-rook-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893402881
+status: 4
+tags: []
+user_id: gauravmore

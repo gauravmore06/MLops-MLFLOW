@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141069861402566730/818d6e00905d463f9c3276e750fe073d/artifacts
+end_time: 1749893613867
+entry_point_name: ''
+experiment_id: '141069861402566730'
+lifecycle_stage: active
+run_id: 818d6e00905d463f9c3276e750fe073d
+run_name: amusing-elk-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893609684
+status: 3
+tags: []
+user_id: gauravmore
